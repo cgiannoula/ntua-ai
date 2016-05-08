@@ -1,0 +1,198 @@
+
+The input area is :
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O X O O O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O X X X X X O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O O O X O O O O O O O O O O X 
+X O O O O O O O O O O O O O O O O O O O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O X O O O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O X X X X X O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O O O X O O O O O O O O O O X 
+X O O O O O O O O O O O O O O O O O O O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O X O O O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O X X X X X O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O O O X O O O O O O O O O O X 
+X O O O O O O O O O O O O O O O O O O O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+
+Robot A considering next position (38,2)
+Robot A moves from position (38,1) to position (38,2)
+Robot B considering next position (2,10)
+Robot B moves from position (2,9) to position (2,10)
+Robot A considering next position (38,3)
+Robot A moves from position (38,2) to position (38,3)
+Robot B considering next position (2,11)
+Robot B moves from position (2,10) to position (2,11)
+Robot A considering next position (38,4)
+Robot A moves from position (38,3) to position (38,4)
+Robot B considering next position (2,12)
+Robot B moves from position (2,11) to position (2,12)
+Robot A considering next position (38,5)
+Robot A moves from position (38,4) to position (38,5)
+Robot B considering next position (3,12)
+Robot B moves from position (2,12) to position (3,12)
+Robot A considering next position (38,6)
+Robot A moves from position (38,5) to position (38,6)
+Robot B considering next position (4,12)
+Robot B moves from position (3,12) to position (4,12)
+Robot A considering next position (38,7)
+Robot A moves from position (38,6) to position (38,7)
+Robot B considering next position (5,12)
+Robot B moves from position (4,12) to position (5,12)
+Robot A considering next position (38,8)
+Robot A moves from position (38,7) to position (38,8)
+Robot B considering next position (6,12)
+Robot B moves from position (5,12) to position (6,12)
+Robot A considering next position (38,9)
+Robot A moves from position (38,8) to position (38,9)
+Robot B considering next position (7,12)
+Robot B moves from position (6,12) to position (7,12)
+Robot A considering next position (38,10)
+Robot A moves from position (38,9) to position (38,10)
+Robot B considering next position (8,12)
+Robot B moves from position (7,12) to position (8,12)
+Robot A considering next position (38,11)
+Robot A moves from position (38,10) to position (38,11)
+Robot B considering next position (9,12)
+Robot B moves from position (8,12) to position (9,12)
+Robot A moves from position (38,11) to position (38,12)
+Robot B moves from position (9,12) to the meeting point (10,12)
+Robot A moves from position (38,12) to position (37,12)
+Robot A moves from position (37,12) to position (36,12)
+Robot A moves from position (36,12) to position (35,12)
+Robot A moves from position (35,12) to position (34,12)
+Robot A moves from position (34,12) to position (33,12)
+Robot A moves from position (33,12) to position (32,12)
+Robot A moves from position (32,12) to position (31,12)
+Robot A moves from position (31,12) to position (30,12)
+Robot A moves from position (30,12) to position (29,12)
+Robot A moves from position (29,12) to position (28,12)
+Robot A moves from position (28,12) to position (27,12)
+Robot A moves from position (27,12) to position (26,12)
+Robot A moves from position (26,12) to position (25,12)
+Robot A moves from position (25,12) to position (24,12)
+Robot A moves from position (24,12) to position (23,12)
+Robot A moves from position (23,12) to position (22,12)
+Robot A moves from position (22,12) to position (21,12)
+Robot A moves from position (21,12) to position (20,12)
+Robot A moves from position (20,12) to position (19,12)
+Robot A moves from position (19,12) to position (18,12)
+Robot A moves from position (18,12) to position (17,12)
+Robot A moves from position (17,12) to position (16,12)
+Robot A moves from position (16,12) to position (15,12)
+Robot A moves from position (15,12) to position (14,12)
+Robot A moves from position (14,12) to position (13,12)
+Robot A moves from position (13,12) to position (12,12)
+Robot A moves from position (12,12) to position (11,12)
+
+The map of robot A is :
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O X O O O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O X X X X X O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O O O X O O O O O O O O O O X 
+X O O O O O O O O O O O O O O O O O O O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O X O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O O O 
+O O O O O O O O X O O O A O O O O O O X 
+O O O O O O O X X X O O A O O O O O O X 
+O O O O O O X X X X X O A O O O O O O X 
+O O O O O O O X X X O O A O O O O O O X 
+O O O O O O O O X O O O A O O O O O O X 
+X O O O O O O O O O O O A O O O O O O O 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O X O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O O O 
+O O O O O O O O X O O O A O O O O O O X 
+O O O O O O O X X X O O A O O O O O O X 
+O O O O O O X X X X X O A O O O O O O X 
+O O O O O O O X X X O O A O O O O O O X 
+O O O O O O O O X O O O A O O O O O O X 
+X O O O O O O O O O O O A O O O O O O O 
+X O O O O O O O O O O O A O O O O O X X 
+X O O O O O O O O O O O A O O O O O X X 
+X A A A A A A A A A A A A O O O O O X X 
+
+The map of robot B is :
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O B B B B O O O O O X X 
+X O O O O O O O O O O O B O O O O O O O 
+O O O O O O O O X O O O B O O O O O O X 
+O O O O O O O X X X O O B O O O O O O X 
+O O O O O O X X X X X O B O O O O O O X 
+O O O O O O O X X X O O B O O O O O O X 
+O O O O O O O O X O O O B O O O O O O X 
+X O O O O O O O O O O O B O O O O O O O 
+X O O O O O O O O O O O B O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O X O O O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O X X X X X O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O O O X O O O O O O O O O O X 
+X O O O O O O O O O O O O O O O O O O O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O X O O O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O X X X X X O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O O O X O O O O O O O O O O X 
+X O O O O O O O O O O O O O O O O O O O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+
+The total number of nodes for robots is: 88
+
+Execution time:0.224s
+

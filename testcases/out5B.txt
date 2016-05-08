@@ -1,0 +1,123 @@
+
+The input area is :
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O O O 
+O O O O O O O O X O O O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O X X X X X O O O O O O O O X 
+O O O O O O O X X X O O O O O O O O O X 
+O O O O O O O O X O O O O O O O O O O X 
+X O O O O O O O O O O O O O O O O O O O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+
+Robot A considering next position (3,9)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (2,9) to position (2,10)
+Robot B considering next position (4,9)
+Robot B moves from position (3,9) to position (4,9)
+Robot A considering next position (3,10)
+Robot A moves from position (2,10) to position (3,10)
+Robot B considering next position (4,10)
+Robot B moves from position (4,9) to position (4,10)
+Robot A considering next position (4,10)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (3,10) to position (3,11)
+Robot B considering next position (5,10)
+Robot B moves from position (4,10) to position (5,10)
+Robot A considering next position (4,11)
+Robot A moves from position (3,11) to position (4,11)
+Robot B considering next position (5,11)
+Robot B moves from position (5,10) to position (5,11)
+Robot A considering next position (5,11)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (4,11) to position (4,12)
+Robot B considering next position (6,11)
+Robot B moves from position (5,11) to position (6,11)
+Robot A considering next position (5,12)
+Robot A moves from position (4,12) to position (5,12)
+Robot B considering next position (7,11)
+Robot B moves from position (6,11) to position (7,11)
+Robot A considering next position (6,12)
+Robot A moves from position (5,12) to position (6,12)
+Robot B considering next position (8,11)
+Robot B moves from position (7,11) to position (8,11)
+Robot A considering next position (7,12)
+Robot A moves from position (6,12) to position (7,12)
+Robot B considering next position (9,11)
+Robot B moves from position (8,11) to position (9,11)
+Robot A considering next position (8,12)
+Robot A moves from position (7,12) to position (8,12)
+Robot B considering next position (9,12)
+Robot B moves from position (9,11) to position (9,12)
+Robot A considering next position (9,12)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (8,12) to position (8,13)
+Robot B considering next position (9,13)
+Robot B moves from position (9,12) to position (9,13)
+Robot A considering next position (9,13)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (8,13) to position (8,14)
+Robot B considering next position (9,14)
+Robot B moves from position (9,13) to position (9,14)
+Robot A considering next position (9,14)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (8,14) to position (8,15)
+Robot B considering next position (9,15)
+Robot B moves from position (9,14) to position (9,15)
+Robot A considering next position (9,15)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (8,15) to position (8,16)
+Robot B considering next position (9,16)
+Robot B moves from position (9,15) to position (9,16)
+Robot A considering next position (9,16)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (8,16) to position (8,17)
+Robot B considering next position (9,17)
+Robot B moves from position (9,16) to position (9,17)
+Robot A considering next position (9,17)
+Robot A uderstands the collision with Robot B and changes its direction
+Robot A moves from position (8,17) to position (8,18)
+Robot B considering next position (9,18)
+Robot B moves from position (9,17) to position (9,18)
+Robot A moves from position (8,18) to position (9,18)
+Robot B moves from position (9,18) to the meeting point (9,19)
+
+The map of robot A is :
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O A A O O O O O O O X X 
+X O O O O O O O O O A A O O O O O O O O 
+O O O O O O O O X O O A A O O O O O O X 
+O O O O O O O X X X O O A O O O O O O X 
+O O O O O O X X X X X O A O O O O O O X 
+O O O O O O O X X X O O A O O O O O O X 
+O O O O O O O O X O O O A A A A A A A X 
+X O O O O O O O O O O O O O O O O O A O 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+
+The map of robot B is :
+X O O O O O O O X O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O B O O O O O O O O O O 
+O O O O O O O O X B B O O O O O O O O X 
+O O O O O O O X X X B B O O O O O O O X 
+O O O O O O X X X X X B O O O O O O O X 
+O O O O O O O X X X O B O O O O O O O X 
+O O O O O O O O X O O B O O O O O O O X 
+X O O O O O O O O O O B B B B B B B B B 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+X O O O O O O O O O O O O O O O O O X X 
+
+The total number of nodes for robots is: 199
+
+Execution time:0.171s
+
+
